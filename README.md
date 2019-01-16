@@ -1,4 +1,4 @@
-"# Text-Editor-Project-4" 
+# Text-Editor-Project-4
 
 
 Project 4 COSC 600, Towson University
